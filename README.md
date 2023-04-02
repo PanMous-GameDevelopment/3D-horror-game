@@ -14,3 +14,6 @@ Controls: Shift to run, Right click for camera zoom, Left click to interact, F t
 
 ![House](https://user-images.githubusercontent.com/129271569/229375471-3ee77333-cdcb-41ed-bab2-f73f444dd84c.png)
 
+![Hunt](https://user-images.githubusercontent.com/129271569/229376034-d801c2fa-675e-4725-868f-60efd23c21bc.png)
+
+
