@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4fd45245dc755145a7c41906a5b0311, type: 3}
+  m_Name: Matches
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 396997336118370704, guid: 7f00511ea7ff69a45b1b1f4cbb49230c, type: 3}
+  type: 2
+  description: Matches to light your way in dark alleys.
