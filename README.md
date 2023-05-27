@@ -1,4 +1,4 @@
-# 3D-horror-game
+# 3D Game
 3D game made with C# and Unity.
 
 1. Open the "Glycon" folder with Unity.
