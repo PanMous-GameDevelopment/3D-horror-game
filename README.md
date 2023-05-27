@@ -1,6 +1,5 @@
 # 3D-horror-game
-3D horror game made with C# and Unity.
-The game was created as part of my thesis and was rated 10/10.
+3D game made with C# and Unity.
 
 1. Open the "Glycon" folder with Unity.
 2. In the "Scenes" folder first open the "MainMenu" scene.
